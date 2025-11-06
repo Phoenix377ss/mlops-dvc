@@ -1,0 +1,5 @@
+[core]
+    remote = ottus-mlops
+['remote "ottus-mlops"']
+    url = s3://check08071999
+    endpointurl = https://storage.yandexcloud.net
